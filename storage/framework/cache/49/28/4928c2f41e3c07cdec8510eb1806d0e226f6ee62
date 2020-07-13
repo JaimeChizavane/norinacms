@@ -1,0 +1,17 @@
+1594574206a:1:{s:15:"room/prices.htm";a:6:{s:8:"fileName";s:15:"room/prices.htm";s:7:"content";s:231:"      <div class="col-sm-3 col-md-2">
+          <div class="size-price">Size<span>44 sq</span></div>
+      </div>
+      <div class="col-sm-3 col-md-2">
+          <div class="size-price">Price<span>$200.00</span></div>
+      </div>
+";s:5:"mtime";i:1594218132;s:6:"markup";s:224:"<div class="col-sm-3 col-md-2">
+          <div class="size-price">Size<span>44 sq</span></div>
+      </div>
+      <div class="col-sm-3 col-md-2">
+          <div class="size-price">Price<span>$200.00</span></div>
+      </div>";s:4:"code";N;s:12:"parsedMarkup";s:224:"<div class="col-sm-3 col-md-2">
+          <div class="size-price">Size<span>44 sq</span></div>
+      </div>
+      <div class="col-sm-3 col-md-2">
+          <div class="size-price">Price<span>$200.00</span></div>
+      </div>";}}

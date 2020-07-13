@@ -1,0 +1,16 @@
+1594574153a:1:{s:16:"bottom/links.htm";a:6:{s:8:"fileName";s:16:"bottom/links.htm";s:7:"content";s:529:"==
+<h4>Quick Links</h4>
+                    <ul class="list-unstyled">
+                        <li><a href="{{ 'samples/rooms'|page }}">Massage Rooms</a></li>        
+                        <li><a href="{{ 'samples/intro'|page }}">About us</a></li>
+                        <li><a href="{{ 'samples/gallery'|page }}">Our Massages</a></li>
+                        <li><a href="{{ 'tour'|page }}">Packages</a></li>
+                        <li><a href="{{ 'samples/contact'|page }}">Contact</a></li>
+                    </ul>";s:5:"mtime";i:1594221488;s:6:"markup";s:526:"<h4>Quick Links</h4>
+                    <ul class="list-unstyled">
+                        <li><a href="{{ 'samples/rooms'|page }}">Massage Rooms</a></li>        
+                        <li><a href="{{ 'samples/intro'|page }}">About us</a></li>
+                        <li><a href="{{ 'samples/gallery'|page }}">Our Massages</a></li>
+                        <li><a href="{{ 'tour'|page }}">Packages</a></li>
+                        <li><a href="{{ 'samples/contact'|page }}">Contact</a></li>
+                    </ul>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

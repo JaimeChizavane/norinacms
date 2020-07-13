@@ -1,0 +1,20 @@
+1594574296a:1:{s:10:"banner.htm";a:6:{s:8:"fileName";s:10:"banner.htm";s:7:"content";s:593:"==
+<img src="{{ 'assets/images/photos/banner.jpg'|theme }}"  class="img-responsive" alt="slide">
+    <div class="welcome-message">
+        <div class="wrap-info">
+            <div class="information">
+                <h1  class="animated fadeInDown">We care about your body</h1>
+                <p class="animated fadeInUp">Let you body with professionals we will ensure that we give all of our love.</p>                
+            </div>
+            <a href="#information" class="arrow-nav scroll wowload fadeInDownBig"><i class="fa fa-angle-down"></i></a>
+        </div>
+    </div>";s:5:"mtime";i:1594220384;s:6:"markup";s:590:"<img src="{{ 'assets/images/photos/banner.jpg'|theme }}"  class="img-responsive" alt="slide">
+    <div class="welcome-message">
+        <div class="wrap-info">
+            <div class="information">
+                <h1  class="animated fadeInDown">We care about your body</h1>
+                <p class="animated fadeInUp">Let you body with professionals we will ensure that we give all of our love.</p>                
+            </div>
+            <a href="#information" class="arrow-nav scroll wowload fadeInDownBig"><i class="fa fa-angle-down"></i></a>
+        </div>
+    </div>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

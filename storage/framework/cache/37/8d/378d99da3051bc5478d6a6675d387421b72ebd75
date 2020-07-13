@@ -1,0 +1,44 @@
+1594574153a:1:{s:8:"home.htm";a:11:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:568:"title = "Home"
+url = "/"
+layout = "default"
+description = "Home Page"
+meta_description = "A Massage House Website for booking and reservation"
+is_hidden = 0
+==
+<!-- banner -->
+<div class="banner">
+    {% partial "banner" %}
+</div>
+<!-- banner-->
+
+<!-- reservation-information -->
+<div id="information" class="spacer reserve-info ">
+    {% partial "reserve" %}
+</div>
+<!-- reservation-information -->
+
+<!-- services -->
+<div class="spacer services wowload fadeInUp">
+<div class="container">
+    {% partial "services" %}
+</div>
+</div>
+<!-- services -->";s:5:"mtime";i:1594572551;s:6:"markup";s:408:"<!-- banner -->
+<div class="banner">
+    {% partial "banner" %}
+</div>
+<!-- banner-->
+
+<!-- reservation-information -->
+<div id="information" class="spacer reserve-info ">
+    {% partial "reserve" %}
+</div>
+<!-- reservation-information -->
+
+<!-- services -->
+<div class="spacer services wowload fadeInUp">
+<div class="container">
+    {% partial "services" %}
+</div>
+</div>
+<!-- services -->";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:11:"description";s:9:"Home Page";s:16:"meta_description";s:51:"A Massage House Website for booking and reservation";s:9:"is_hidden";s:1:"0";}}
